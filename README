@@ -1,1 +1,4 @@
 Template for heroku app based on sinatra
+
+<h1>Add heroku remote git repo</h1>
+git remote add heroku git@heroku.com:myapp.git
