@@ -1,0 +1,23 @@
+* {
+  margin:0;
+  line-height:1.4em;
+	padding:0;
+}
+
+html, body {
+	height:100%;
+	color:black;
+}
+
+body {
+	font-family: helvetica,sans-serif;
+  font-size: 12px;
+}
+
+p {
+	margin:1em 0;
+}
+
+img {
+	border:0;
+}
