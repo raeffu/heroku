@@ -1,4 +1,4 @@
-# Template for heroku apps based on sinatra
+# Setup
 
 Just add a heroku remote and you're good to go
 
